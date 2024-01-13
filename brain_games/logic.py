@@ -24,4 +24,3 @@ def launch(game):
         index = index + 1
 
     print(f'Congratulations, {name}!')
-

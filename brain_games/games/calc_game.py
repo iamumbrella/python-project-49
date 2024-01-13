@@ -24,4 +24,3 @@ def calculate(num_one, num_two, operator):
     elif operator == '-':
         result = num_one - num_two
     return result
-

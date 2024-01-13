@@ -19,4 +19,3 @@ def get_round_data():
 
 def is_even(random_number):
     return random_number % 2 == 0
-

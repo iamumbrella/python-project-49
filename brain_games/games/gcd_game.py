@@ -13,4 +13,3 @@ def get_round_data():
     question = f'{num_one} {num_two}'
     correct_answer = str(math.gcd(num_one, num_two))
     return question, correct_answer
-
