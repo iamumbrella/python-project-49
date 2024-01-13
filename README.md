@@ -10,4 +10,5 @@ https://asciinema.org/a/QUqHU2PKMeTYg3gEJZ7Vht5Sz # gcd_dame demo
 
 https://asciinema.org/a/WGJBzqL4RKUNuxjoF2Kmtq32S # progression_game demo
 
+https://asciinema.org/a/bc1NUfVm12sWVd8RrPlrJq84S # prime_game demo
 
