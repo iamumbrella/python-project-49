@@ -8,3 +8,6 @@ https://asciinema.org/a/izpjAlMCAOMgF6SxLA7E54WG6 #calc_game demo
 
 https://asciinema.org/a/QUqHU2PKMeTYg3gEJZ7Vht5Sz # gcd_dame demo
 
+https://asciinema.org/a/WGJBzqL4RKUNuxjoF2Kmtq32S # progression_game demo
+
+
