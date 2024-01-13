@@ -6,4 +6,5 @@ https://asciinema.org/a/3nGfNjtus02DvP3F4wLhtellH #even_game demo
 
 https://asciinema.org/a/izpjAlMCAOMgF6SxLA7E54WG6 #calc_game demo
 
+https://asciinema.org/a/QUqHU2PKMeTYg3gEJZ7Vht5Sz # gcd_dame demo
 
