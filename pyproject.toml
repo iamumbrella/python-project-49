@@ -1,11 +1,12 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Brain Games!: Math mini - games"
-authors = ["Anton Fomkin  <mr.fomkin@bk.ru>"]
-repositori = "https://github.com/iamumbrella/python-project-49/"
-readme = "README.md"
-packages = [ { include = "brain_games" }, ]
+description = "Brain Games: 5 math mini-games"
+authors = ["Anton Fomkin <<mr.fomkin@bk.ru>>"]
+repository = "https://github.com/iamumbrella/python-project-49.git"
+packages = [
+  { include = "brain_games" },
+]
 classifiers = [
     "License :: Free for non-commercial use",
     "Natural Language :: English",
