@@ -5,7 +5,7 @@
 <a href="https://codeclimate.com/github/iamumbrella/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/85653cdce6fe96d7cd9b/maintainability" /></a>
 
 ### How to Install:
-'python3 -m pip install --user git+https://github.com/iamumbrella/python-project-49.git'
+`python3 -m pip install --user git+https://github.com/iamumbrella/python-project-49.git`
 
 ### Even Game:
 [![asciicast](https://asciinema.org/a/3nGfNjtus02DvP3F4wLhtellH.svg)](https://asciinema.org/a/3nGfNjtus02DvP3F4wLhtellH)
